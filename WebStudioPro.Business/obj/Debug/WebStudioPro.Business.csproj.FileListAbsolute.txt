@@ -1,0 +1,22 @@
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\bin\Debug\WebStudioPro.Business.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\bin\Debug\WebStudioPro.Business.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\obj\Debug\WebStudi.674F50DA.Up2Date
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\bin\Debug\WebStudioPro.Business.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\bin\Debug\WebStudioPro.Business.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\obj\Debug\WebStudi.674F50DA.Up2Date
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Business\obj\Debug\WebStudioPro.Business.pdb

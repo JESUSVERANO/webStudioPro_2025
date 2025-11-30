@@ -1,0 +1,27 @@
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\obj\Debug\WebStudi.FC2FB904.Up2Date
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\obj\Debug\WebStudi.FC2FB904.Up2Date
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\obj\Debug\WebStudi.FC2FB904.Up2Date
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Data\obj\Debug\WebStudioPro.Data.pdb

@@ -1,0 +1,103 @@
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe.config
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.pdb
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.AssemblyReference.cache
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLogin.resources
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmMain.resources
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.Properties.Resources.resources
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.GenerateResource.cache
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.pdb
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe.config
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmClientes.resources
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmProyectos.resources
+C:\Users\JESUS VERANO\source\repos\WebStudioPro.Presentacion\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmCotizador.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Business.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Business.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmClientes.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmCotizador.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLogin.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmMain.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmProyectos.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.Properties.Resources.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.GenerateResource.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudi.0D306345.Up2Date
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmClientes.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmCotizador.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLogin.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmMain.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmProyectos.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.Properties.Resources.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.GenerateResource.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\prueba100\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmClientes.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmCotizador.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLogin.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmMain.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmProyectos.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.Properties.Resources.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.GenerateResource.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\pruebab2\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmClientes.resources
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmCotizador.resources
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLogin.resources
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmMain.resources
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmProyectos.resources
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.Properties.Resources.resources
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.GenerateResource.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudi.0D306345.Up2Date
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Data.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Data.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe.config
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmClientes.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmCotizador.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLogin.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmMain.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmProyectos.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.Properties.Resources.resources
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.GenerateResource.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudi.0D306345.Up2Date
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.exe
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Presentacion\obj\Debug\WebStudioPro.Presentacion.FrmLeads.resources

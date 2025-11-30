@@ -1,0 +1,18 @@
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Entities\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Entities\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\Proyecto ordenado\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Entities\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Entities\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\webStudioPro_final\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Entities\bin\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Entities\bin\Debug\WebStudioPro.Entities.pdb
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.csproj.AssemblyReference.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.csproj.CoreCompileInputs.cache
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.dll
+C:\SISE\III CICLO\Desarrollo de Soluciones Empresariales.pdf\webstudiorpo\WebStudioPro.Entities\obj\Debug\WebStudioPro.Entities.pdb
